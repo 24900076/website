@@ -841,28 +841,23 @@ Contact.html
 
 # OUTPUT:
 ## HOME
-![HOme](<Screenshot 2024-12-03 082026.png>)
+![image](https://github.com/user-attachments/assets/c96c2cd3-98e5-4be6-9fc7-6b78e84a9854)
 
 
 ## MENU
+![image](https://github.com/user-attachments/assets/c478bc26-0f2a-4efb-a7f8-a3d812d26856)
+![image](https://github.com/user-attachments/assets/04359ef6-ebe0-4af8-972b-ede0f7b727ad)
+![image](https://github.com/user-attachments/assets/19259a5f-8db1-4d98-ae73-cdbb143eb20e)
+![image](https://github.com/user-attachments/assets/3443a92a-1b45-4232-aefc-886a98e660bd)
+![image](https://github.com/user-attachments/assets/14ef8533-7563-4b62-a42f-303ad16212dd)
 
-![alt text](<image (2).png>)
-
-![alt text](<image (3).png>)
-
-![alt text](<image (4).png>)
-
-![alt text](<image (5).png>)
-
-![alt text](<image (6).png>)
 
 ## ADMINISTRATION
+![image](https://github.com/user-attachments/assets/2de43ed1-12fe-4287-9cdd-bfa684ee43fa)
 
-![Administration](<image (7).png>)
 
 ## CONTACT 
-![Contact](<Screenshot 2024-12-03 083355.png>)
-
+![image](https://github.com/user-attachments/assets/197610f1-a449-4de8-a489-b6f98eb5c603)
 
 # RESULT:
 
