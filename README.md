@@ -842,22 +842,25 @@ Contact.html
 # OUTPUT:
 HOME
 
-![image](https://github.com/user-attachments/assets/ac1d475c-a52a-4b38-b8cc-aa2967a7622a)
+![image](https://github.com/user-attachments/assets/1e453fc6-66d8-465a-aad8-a879f9403135)
+
 
 MENU
 
-![image](https://github.com/user-attachments/assets/ecc53f30-e10b-41e5-90df-115f1b6e17bb)
-![image](https://github.com/user-attachments/assets/bb0a7629-204d-49d8-ab7e-858b712c5635)
-![image](https://github.com/user-attachments/assets/8067f38c-afe7-4be9-bb3d-61783fce80e5)
-![image](https://github.com/user-attachments/assets/aa099cd0-f253-40f3-b597-44afe591a7f6)
+![image](https://github.com/user-attachments/assets/f4e05d80-4cb9-4da6-a8a1-e4cf220a7ea3)
+![image](https://github.com/user-attachments/assets/de635543-2d5c-4db5-a31e-5fd7ed93aee3)
+![image](https://github.com/user-attachments/assets/10cc4ce3-27ed-45ea-93f4-ea6b17791667)
+![image](https://github.com/user-attachments/assets/ac88d80f-f05a-422b-af81-5c328b11a633)
+![image](https://github.com/user-attachments/assets/238553ee-58f9-4157-bb38-f5bdc329339f)
 
 ADMINISTRATION
 
-![image](https://github.com/user-attachments/assets/87f2e3f0-8b55-4371-a0a3-0e8ed0fe6186)
+![image](https://github.com/user-attachments/assets/fe638b37-2327-44e0-8e09-2e7f028a12d5)
 
 CONTACT
 
-![image](https://github.com/user-attachments/assets/72636e59-3fb6-4c85-9ceb-871bfa7cc331)
+![image](https://github.com/user-attachments/assets/32267e39-69e9-4177-b631-6059fdab7f10)
+
 
 # RESULT:
 
