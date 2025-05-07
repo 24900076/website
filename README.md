@@ -840,26 +840,28 @@ Contact.html
 ```
 
 # OUTPUT:
-HOME
+## HOME
+![HOme](<Screenshot 2024-12-03 082026.png>)
 
-![image](https://github.com/user-attachments/assets/1e453fc6-66d8-465a-aad8-a879f9403135)
 
+## MENU
 
-MENU
+![alt text](<image (2).png>)
 
-![image](https://github.com/user-attachments/assets/f4e05d80-4cb9-4da6-a8a1-e4cf220a7ea3)
-![image](https://github.com/user-attachments/assets/de635543-2d5c-4db5-a31e-5fd7ed93aee3)
-![image](https://github.com/user-attachments/assets/10cc4ce3-27ed-45ea-93f4-ea6b17791667)
-![image](https://github.com/user-attachments/assets/ac88d80f-f05a-422b-af81-5c328b11a633)
-![image](https://github.com/user-attachments/assets/238553ee-58f9-4157-bb38-f5bdc329339f)
+![alt text](<image (3).png>)
 
-ADMINISTRATION
+![alt text](<image (4).png>)
 
-![image](https://github.com/user-attachments/assets/fe638b37-2327-44e0-8e09-2e7f028a12d5)
+![alt text](<image (5).png>)
 
-CONTACT
+![alt text](<image (6).png>)
 
-![image](https://github.com/user-attachments/assets/32267e39-69e9-4177-b631-6059fdab7f10)
+## ADMINISTRATION
+
+![Administration](<image (7).png>)
+
+## CONTACT 
+![Contact](<Screenshot 2024-12-03 083355.png>)
 
 
 # RESULT:
